@@ -1279,7 +1279,6 @@ def DARKS(number,amo):
         lmnXlija_29(number);AnonymousX(f" </> AnonymousX v7.0 [{x}-29]")
         lmnXlija_30(number);AnonymousX(f" </> AnonymousX v7.0 [{x}-30]")
         lmnXlija_31(number);AnonymousX(f" </> AnonymousX v7.0 [{x}-31]")
-        lmnXlija_32(number);AnonymousX(f" </> AnonymousX v7.0 [{x}-32]")
         lmnXlija_33(number);AnonymousX(f" </> AnonymousX v7.0 [{x}-33]")
         lmnXlija_34(number);AnonymousX(f" </> AnonymousX v7.0 [{x}-34]")
         lmnXlija_35(number);AnonymousX(f" </> AnonymousX v7.0 [{x}-35]")
